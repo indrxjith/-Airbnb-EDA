@@ -63,12 +63,7 @@ The dataset contains **20,765 listings** with 22 features, including:
 
 ---
 
-## 🖼 **Sample Data Visualizations**
-
-*Add your plots here by saving them in `images/` and referencing them:*
-
-![Price Distribution](images/price_distribution.png)  
-![Availability vs Price](images/availability_price.png)  
+  
 
 ---
 
