@@ -5,7 +5,7 @@ This project performs an Exploratory Data Analysis (EDA) on Airbnb listings from
 
 ---
 
-## 📸 **Project Visual**
+
 
 ![New York Panorama](images/newyork_panorama.jpg)
 
